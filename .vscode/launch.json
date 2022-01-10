@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-EmployeemanagerApplication<employeemanager>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.ford.employeemanager.EmployeemanagerApplication",
+            "projectName": "employeemanager",
+            "args": ""
+        }
+    ]
+}
